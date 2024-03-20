@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/nodejs-asm3-client/static/css/main.b3c0fd7f.css",
-    "main.js": "/nodejs-asm3-client/static/js/main.a4c23085.js",
+    "main.js": "/nodejs-asm3-client/static/js/main.b6b8e0a0.js",
     "static/media/banner1.jpg": "/nodejs-asm3-client/static/media/banner1.4a22881c941f7b645fa8.jpg",
     "index.html": "/nodejs-asm3-client/index.html",
     "main.b3c0fd7f.css.map": "/nodejs-asm3-client/static/css/main.b3c0fd7f.css.map",
-    "main.a4c23085.js.map": "/nodejs-asm3-client/static/js/main.a4c23085.js.map"
+    "main.b6b8e0a0.js.map": "/nodejs-asm3-client/static/js/main.b6b8e0a0.js.map"
   },
   "entrypoints": [
     "static/css/main.b3c0fd7f.css",
-    "static/js/main.a4c23085.js"
+    "static/js/main.b6b8e0a0.js"
   ]
 }
